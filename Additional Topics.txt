@@ -1,0 +1,11 @@
+Normalization
+Backup Types (Full, Differential, Transaction Log)
+SnapShot
+Job
+Cursor 
+Synonm
+Sequence
+Rule
+Group by Rollup 
+Group by Cube
+Create DataType
