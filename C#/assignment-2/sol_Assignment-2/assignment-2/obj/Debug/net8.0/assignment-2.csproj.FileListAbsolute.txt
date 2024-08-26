@@ -1,0 +1,15 @@
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.exe
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.deps.json
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.runtimeconfig.json
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.dll
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\bin\Debug\net8.0\assignment-2.pdb
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.AssemblyInfoInputs.cache
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.AssemblyInfo.cs
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.csproj.CoreCompileInputs.cache
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.sourcelink.json
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.dll
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\refint\assignment-2.dll
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.pdb
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\assignment-2.genruntimeconfig.cache
+D:\back-end\C#\assignment-2\sol_Assignment-2\assignment-2\obj\Debug\net8.0\ref\assignment-2.dll
