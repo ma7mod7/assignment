@@ -1,0 +1,29 @@
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.exe
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.deps.json
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.runtimeconfig.json
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.dll
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.pdb
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.dll
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\refint\Assignment-2-oop.dll
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.pdb
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\ref\Assignment-2-oop.dll
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.GeneratedMSBuildEditorConfig.editorconfig
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.AssemblyInfoInputs.cache
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.AssemblyInfo.cs
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.csproj.CoreCompileInputs.cache
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.sourcelink.json
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.dll
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\refint\Assignment-2-oop.dll
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.pdb
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.exe
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.deps.json
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.runtimeconfig.json
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.dll
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\bin\Debug\net8.0\Assignment-2-oop.pdb
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\Assignment-2-oop.genruntimeconfig.cache
+D:\back-end\C# (OOP)\Assignment-2\sol-Assignment-2-oop\Assignment-2-oop\obj\Debug\net8.0\ref\Assignment-2-oop.dll
